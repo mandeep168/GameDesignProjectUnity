@@ -1,0 +1,9 @@
+demo/.vscode
+demo/Library
+demo/Logs
+
+demo/Packages
+demo/ProjectSettings
+demo/UserSettings
+demo/Assembly-CSharp.csproj
+demo/demo.sln
